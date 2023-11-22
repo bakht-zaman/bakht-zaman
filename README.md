@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bakht-zaman
-- 👀 I’m interested in Machine Learning, Signal Processing, Convex Optimization, Data Analytics, and series analysis.
+- 👀 I’m interested in Machine Learning, Signal Processing, Convex Optimization, Data Analytics, and Time Series Analysis.
 - 🌱 I’m currently learning cloud computing, NLP, SQL, etc.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on inference for multidimensional time series, Online machine-learning algorithms for streaming data, and Statistical Signal Processing (Estimation and Detection Theory)
 - 📫 How to reach me. You can contact me at engr.bakhtzaman@gmail.com
 
 <!---
