@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bakht-zaman
+- 👋 Hi, I’m Bakht Zaman, PhD in Machine Learning and Signal Processing.
 - 👀 I’m interested in Machine Learning, Signal Processing, Convex Optimization, Data Analytics, and Time Series Analysis.
 - 🌱 I’m currently learning cloud computing, NLP, SQL, etc.
 - 💞️ I’m looking to collaborate on inference for multidimensional time series, Online machine-learning algorithms for streaming data, and Statistical Signal Processing (Estimation and Detection Theory)
