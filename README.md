@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bakht Zaman, PhD in Machine Learning and Signal Processing. I am currently available on the job market.
-- I postdoctoral fellowship experiences in various European research and innovation projects. I am interested in using
+- I have postdoctoral fellowship experience in various European research and innovation projects. I am interested in using
 statistical modeling to address problems in industrial applications, employing methods from statistical
 analysis, time series, convex optimization, signal processing, and machine learning (e.g. deep learning) and other AI techniques. I aim to develop,
 implement, test and deploy cutting-edge solutions based on statistical learning, optimization, signal
